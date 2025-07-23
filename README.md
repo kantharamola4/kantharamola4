@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rimpy!</h1>
+<h1 align="center">Hey there 👋, I'm Ramola!</h1>
 <h3 align="center">Tech Explorer | Code Dreamer | Impact Maker 🌱</h3>
 
 <p align="center">
