@@ -52,8 +52,8 @@
 ### 📱 Mobile
 `Flutter` `React Native``Android Studio`
 
-### ⚙ Backend & Cloud
-`Node.js` `MongoDB` `MySQL`
+### ⚙ Backend 
+`Node.js` `MySQL`
 
 ### 🧪 Data & AI
 `Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `Librosa` `Matplotlib` `OpenCV`
