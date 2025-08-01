@@ -19,7 +19,7 @@
 
 - 🎓 Final Year CS Student
 - 💖 Building apps that solve *real-world problems* — from **financial wellness** to **healthcare detection**
-- 🧠 Fascinated by **AI**, **data**, **quantum computing**and how technology can *feel* more human
+- 🧠 Fascinated by **AI**, **data**, **quantum computing** and how technology can *feel* more human
 - 📸 I also share stories, aesthetics, and insights on Instagram (yes, I code *and* curate!)
 - ⚡ Fun fact: I sneeze when I breathe too deeply. It's a feature, not a bug. 😄
 
